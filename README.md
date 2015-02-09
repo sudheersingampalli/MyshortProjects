@@ -1,0 +1,2 @@
+# MyshortProjects
+Small Python snippets 
