@@ -14,7 +14,6 @@ splitted. The below program throws a StopIteration exception"""
 import sys
 def main(filename):
 	N=100  # Number of lines in each file
-	i=0
 	f=open(filename,'rU')  # Open the file passed through command Line args
 	for j in range(1,125): # here 12000 / 100 = 120 files. So I have hardcoded the number of files to 125 
 		f1 = open('file'+str(j)+'.txt','w');  # creating new file name each time eg: file1,file2,file3 etc
