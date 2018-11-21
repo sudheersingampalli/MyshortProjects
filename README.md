@@ -1,7 +1,8 @@
 # MyshortProjects
-Small Python snippets 
+* _Delete files from temporary folder in windows machine to improve the booting process._
+* _Excel to Sql conversion_
 
-## Temp_delete.py
+## Delete files from temporary folder (Temp_delete)
 This script will delete the temporary directories and files present at C:\Users\username\ folder in your windows machine.
 Thereby saving space on our system and helps in fast startup of the machine.
 
